@@ -1,6 +1,6 @@
 ## Shopping cart React App
 
-Here I have developed just small example of shopping cart using react.
+Here I have developed just a small example of shopping cart using react.
 
 ## Screenshots
 
