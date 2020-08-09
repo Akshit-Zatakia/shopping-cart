@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import NavBar from "./components/navbar";
 import Counters from "./components/counters";
+import Footer from "./components/footer";
 
 class App extends Component {
   state = {
@@ -48,6 +49,7 @@ class App extends Component {
             onIncrement={this.handleIncrement}
           />
         </main>
+        <Footer />
       </React.Fragment>
     );
   }
